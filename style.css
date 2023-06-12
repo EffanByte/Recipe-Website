@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform:uppercase;
+    text-decoration: underline;
+    margin-bottom: 2cm;
+}
+h2 {
+    text-decoration: underline;
+}
+
+a{
+    color: red;
+    line-height: 3;
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+*{
+    background-color: aliceblue;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+img{
+    height: 500px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+
+}
+ul li{
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+}
+ul {
+    background-color: antiquewhite;
+}
+ol li {
+    color:cadetblue
+}
+p {
+    text-align:center;
+}
